@@ -15,7 +15,8 @@ public class TestClass extends AbstractClass{  //extend abstract class here
 	public static void main(String[] args) {
 		
 		TestClass obj=new TestClass();
-		obj.print();
+		//obj.print();
+		obj.prit();
 		obj.display();
 		obj.add();
 	}
