@@ -16,7 +16,6 @@ public class TestClass extends AbstractClass{  //extend abstract class here
 		
 		TestClass obj=new TestClass();
 		obj.print(); 
-		//obj.prit();  //testing for jenkins //push this file
 		obj.display();
 		obj.add();
 	}
